@@ -1,5 +1,5 @@
                                                    Hi there 👋, my name is Joseph
-                                                   I am trying to be developer
+                                                   Someone who trying to be developer
 
 📊 **This Week I Spent My Time On** 
 
