@@ -1,3 +1,8 @@
+### Hi there 👋, my name is Joseph
+#### I am trying to be developer
+![I am trying to be developer]
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
