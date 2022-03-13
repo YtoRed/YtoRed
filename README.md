@@ -1,20 +1,4 @@
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 
-
-**:zap: Recent Activity:**
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/APLA-Toolbox/PythonPDDL/pull/78) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-2. 💪 Opened PR [#79](https://github.com/APLA-Toolbox/PythonPDDL/pull/79) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-3. 💪 Opened PR [#78](https://github.com/APLA-Toolbox/PythonPDDL/pull/78) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-4. ❗️ Closed issue [#7](https://github.com/APLA-Toolbox/PythonPDDL/issues/7) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-5. ❗️ Opened issue [#77](https://github.com/APLA-Toolbox/PythonPDDL/issues/77) in [APLA-Toolbox/PythonPDDL](https://github.com/APLA-Toolbox/PythonPDDL)
-<!--END_SECTION:activity-->
-
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -70,15 +54,3 @@ Markdown                 30 mins             ░░░░░░░░░░░�
 <code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilyx&show_icons=true&hide_border=true">
-</p>
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/dq01aOE" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
-</p>
-
------
-Credits: [guilyx](https://github.com/guilyx)
-
-Last Edited on: 27/12/2020
