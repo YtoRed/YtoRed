@@ -26,7 +26,7 @@ Sunday       160 commits    ██░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Paris
+⌚︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages:
 Python                   10 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   41.95% 
