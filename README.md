@@ -1,5 +1,6 @@
                                                    Hi there 👋, my name is Joseph
 <hr>
+                                                   
                                                    Someone who trying to be developer
 
 📊 **This Week I Spent My Time On** 
